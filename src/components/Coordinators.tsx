@@ -10,7 +10,7 @@ import boopathi from "./img/boopathi.webp";
 import girubha from "./img/girubha.webp";
 import jeevan from "./img/jeevan.webp";
 import artherbhion from "./img/artherbhionc.webp";
-import yeshwan from "./img/yashwan.webp";
+import pavadharani from "./img/pavadharani.jpg";
 import sahi from "./img/sahi.webp";
 import roshan from "./img/roshan.webp";
 import salamon from "./img/salamon.webp";
@@ -143,11 +143,11 @@ const overallCoordinators = [
     image: palani,
   },
   {
-    name: "YESHWAN R",
+    name: "PAVADHARINI S M",
     role: "Overall Coordinator",
     department: "Mechanical Engineering",
-    phone: "+91 93613 80844",
-    image: yeshwan,
+    phone: "+91 85083 97657",
+    image: pavadharani,
   },
   {
     name: "JEEVA P",
