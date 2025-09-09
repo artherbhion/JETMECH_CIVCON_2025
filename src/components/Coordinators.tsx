@@ -18,6 +18,7 @@ import jeeva from "./img/jeeva.webp";
 import salo from "./img/salo.webp";
 import shaaron from "./img/shaaron.webp";
 import rathis from "./img/rathis.webp";
+import yesh from "./img/yashwan.webp";
 import defaultAvatar from "./img/download.webp";
 
 const eventSections = [
@@ -148,6 +149,13 @@ const overallCoordinators = [
     department: "Mechanical Engineering",
     phone: "+91 85083 97657",
     image: pavadharani,
+  },
+  {
+    name: "YESHWAN R",
+    role: "Overall Coordinator",
+    department: "Mechanical Engineering",
+    phone: "+91 9361380844",
+    image: yesh,
   },
   {
     name: "JEEVA P",
